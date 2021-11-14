@@ -2,6 +2,7 @@ package Seven;
 
 
 public class Auto {
+
     public int weight;
     public String model;
     public char color;

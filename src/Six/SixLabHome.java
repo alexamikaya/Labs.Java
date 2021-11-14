@@ -3,8 +3,7 @@ package Six;
 public class SixLabHome {
     public static void main(String[] args) {
         Home home = new Home(2,2000,"Leo");
-        System.out.println(Home.home2());
-        System.out.println(Home.home3());
+
 
     }
 }

@@ -4,9 +4,7 @@ public class SixLabTree {
     Tree one = new Tree();
     Tree two = new Tree(21,"KKK");
     Tree three = new Tree(12, true, "LLL");
-    System.out.println(one);
-    System.out.println(two);
-    System.out.println(three);
+
 
 }
 class Tree {
